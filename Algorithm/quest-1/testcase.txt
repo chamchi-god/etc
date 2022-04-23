@@ -1,0 +1,10 @@
+<a class="FPmhX notranslate  _0imsa " title="github" href="/github/" tabindex="0">github</a>
+<div class="wFPL8 ">GitHub</div>
+<a class="FPmhX notranslate  _0imsa " title="googlecloud" href="/googlecloud/" tabindex="0">googlecloud</a>
+<div class="wFPL8 ">Google Cloud</div>
+<a class="FPmhX notranslate  _0imsa " title="instagram" href="/instagram/" tabindex="0">instagram</a>
+<div class="wFPL8 ">Instagram</div>
+<a class="FPmhX notranslate  _0imsa " title="microsoft" href="/microsoft/" tabindex="0">microsoft</a>
+<div class="wFPL8 ">Microsoft</div>
+<a class="FPmhX notranslate  _0imsa " title="notionhq" href="/notionhq/" tabindex="0">notionhq</a>
+<div class="wFPL8 ">Notion</div>
